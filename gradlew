@@ -221,7 +221,8 @@ fi
 #
 # The xargs://services.gradle.org/distributions/gradle-9.3.1-bin.zip will quote the following characters:
 #   "  \  
-    	      '  
+  
+  	      '  
 # and replace them with a backslash followed by the character.
 # This is a POSIX extension.
 eval "set -- $(
@@ -232,3 +233,4 @@ eval "set -- $(
     )" '"$@"'
 
 exec "$JAVACMD" "$@"
+
