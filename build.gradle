@@ -1,0 +1,11 @@
+// Top-level build file
+plugins {
+    id 'com.android.application' version '9.1.1' apply false
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

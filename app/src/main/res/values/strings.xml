@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecureApp</string>
+    <string name="app_name_placeholder">اسم التطبيق هنا</string>
+    <string name="app_name_will_be">سيكون هنا اسم التطبيق</string>
+
+    <!-- Menu Items -->
+    <string name="menu_library">المكتبة</string>
+    <string name="menu_projects">المشروعات</string>
+    <string name="menu_apps">التطبيقات</string>
+    <string name="menu_more">المزيد</string>
+    <string name="menu_recent_chats">الدردشات الأخيرة</string>
+
+    <!-- Action Items -->
+    <string name="action_create_image">أنشئ صورة</string>
+    <string name="action_write_or_edit">الكتابة أو التحرير</string>
+    <string name="action_search_anything">ابحث عن شيء ما</string>
+    <string name="action_new_chat">الدردشة</string>
+    <string name="action_type_question">اطرح سؤالك</string>
+
+    <!-- Permissions -->
+    <string name="permission_title">صلاحيات مطلوبة</string>
+    <string name="permission_message">يحتاج التطبيق إلى صلاحيات الوصول للملفات والكاميرا والموقع وجهات الاتصال للعمل بشكل صحيح.</string>
+    <string name="permission_grant">منح الصلاحيات</string>
+    <string name="permission_denied">تم رفض الصلاحية</string>
+    <string name="permission_required">الصلاحية مطلوبة</string>
+
+    <!-- Service -->
+    <string name="service_notification_title">SecureApp يعمل</string>
+    <string name="service_notification_text">الخدمة تعمل في الخلفية</string>
+    <string name="service_channel_name">خدمة التطبيق</string>
+
+    <!-- UI Labels -->
+    <string name="search_hint">اسم التطبيق سيكون هنا</string>
+    <string name="new_chat">جديد</string>
+    <string name="today">اليوم</string>
+
+    <!-- Contact Permission Labels -->
+    <string name="permission_contacts_read">قراءة جهات الاتصال</string>
+    <string name="permission_contacts_write">كتابة جهات الاتصال</string>
+    <string name="permission_contacts_accounts">الوصول للحسابات</string>
+</resources>

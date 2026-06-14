@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#0A0A0A</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#1E90FF</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#0D0D0D</color>
+    <color name="background_card">#1A1A1A</color>
+    <color name="background_surface">#141414</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_hint">#666666</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#1E90FF</color>
+    <color name="button_primary_pressed">#1873CC</color>
+    <color name="button_secondary">#2A2A2A</color>
+
+    <!-- Input Colors -->
+    <color name="input_background">#1E1E1E</color>
+    <color name="input_border">#333333</color>
+
+    <!-- Status Colors -->
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#F44336</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#1F1F1F</color>
+</resources>
